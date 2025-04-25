@@ -1,0 +1,58 @@
+{
+  "navigation": {
+    "links": [
+      { "title": "サービス,", "href": "#services" },
+      { "title": "仕事,", "href": "#work" },
+      { "title": "会社概要,", "href": "#about" },
+      { "title": "お客様の声,", "href": "#testimonial" },
+      { "title": "お問い合わせ,", "href": "#contact" }
+    ]
+  },
+  "SideNav": {
+    "links": [
+      {"title": "ホーム", "href": "#home" },
+      { "title": "サービス", "href": "#services" },
+      { "title": "仕事", "href": "#work" },
+      { "title": "会社概要", "href": "#about" },
+      { "title": "お客様の声", "href": "#testimonial" },
+      { "title": "お問い合わせ", "href": "#contact" }
+    ]
+  },
+  "HeroSection": {
+    "title": "ランディング ページ"
+  },
+  "Services": {
+    "title": "ランディング ページ"
+  },
+  "AboutPage": {
+    "title": "会社概要"
+  },
+  "ProfilePage": {
+    "title": "プロフィール"
+  },
+  "Index": {
+    "title": "ホーム",
+    "loggedIn": "{username} としてログインしました",
+    "loggedOut": "ログアウトしています。",
+    "login": "ログイン",
+    "logout": "ログアウト",
+    "secret": "ログインしたユーザー用のシークレット ページ"
+  },
+  "LocaleLayout": {
+    "title": "Auth.js を使用した next-intl の例"
+  },
+  "Login": {
+    "title": "ログイン",
+    "username": "ユーザー名",
+    "password": "パスワード",
+    "submit": "ログイン",
+    "error": "{error, select, CredentialsSignin {無効なユーザー名またはパスワード} other {不明なエラー}}"
+  },
+  "LocaleSwitcher": {
+    "switchLocale": "{locale, select, de {ドイツ語} en {英語} ja {日本語} other {不明}} に切り替えます"
+  },
+  "Secret": {
+    "title": "秘密ページ",
+    "description": "このページはログインしたユーザーのみ表示されます。"
+  }
+}

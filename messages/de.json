@@ -1,0 +1,71 @@
+{
+  "navigation": {
+    "links": [
+      {"title": "Leistungen,", "href": "#services" },
+      {"title": "Arbeit,", "href": "#work" },
+      {"title": "Über uns,", "href": "#about" },
+      {"title": "Erfahrungsbericht,", "href": "#testimonial"},
+      {"title": "Kontakt,", "href": "#contact" }
+    ]
+  },
+  "SideNav": {
+    "links": [
+      {"title": "Startseite", "href": "#home"},
+      {"title": "Leistungen", "href": "#services" },
+      {"title": "Arbeit", "href": "#work" },
+      {"title": "Über uns", "href": "#about" },
+      {"title": "Erfahrungsbericht", "href": "#testimonial"},
+      {"title": "Kontakt", "href": "#contact" }
+    ]
+  },
+  "HeroSection": {
+    "title": "Landingpage"
+  },
+  "Services": {
+    "title": "Landingpage"
+  },
+  "AboutPage": {
+    "title": "Über"
+  },
+  "ProfilePage": {
+    "title": "Profil"
+  },
+  "Index": {
+    "title": "Startseite",
+    "loggedIn": "Angemeldet als {username}",
+    "loggedOut": "Sie sind abgemeldet.",
+    "login": "Anmelden",
+    "logout": "Abmelden",
+    "secret": "Geheime Seite für angemeldete Benutzer"
+  },
+  "LocaleLayout": {
+    "title": "next-intl mit Auth.js-Beispiel"
+  },
+  "Login": {
+    "title": "Anmelden",
+    "username": "Benutzername",
+    "password": "Passwort",
+    "submit": "Anmelden",
+    "error": "{error, select, CredentialsSignin {Ungültiger Benutzername oder Passwort} other {Unbekannter Fehler}}"
+  },
+  "LocaleSwitcher": {
+    "switchLocale": "Wechseln zu {locale, select, de {Deutsch} en {Englisch} other {Unbekannt}}"
+  },
+  "Secret": {
+    "title": "Geheime Seite",
+    "description": "Diese Seite ist nur für angemeldete Benutzer sichtbar."
+  },
+   "contact": "Zur Kontaktseite"
+  },
+  "contactForm": {
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Abschicken"
+  },
+  "validation": {
+    "invalid": "Email ungültig",
+    "required": "Name erforderlich",
+    "min": "Message erforderlich, um mindestens 10 Zeichen zu sein"
+  }
+}

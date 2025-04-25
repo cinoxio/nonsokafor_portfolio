@@ -1,0 +1,86 @@
+{
+  "navigation": {
+    "links": [
+      { "title": "Services,", "href": "#services" },
+      { "title": "Work,", "href": "#work" },
+      { "title": "About,", "href": "#about" },
+      { "title": "Testimonial,", "href": "#testimonial"},
+      { "title": "Contact,", "href": "#contact" }
+    ]
+  },
+   "SideNav": {
+    "links": [
+      {"title": "Home", "href": "#home"},
+      { "title": "Services", "href": "#services" },
+      { "title": "Work", "href": "#work" },
+      { "title": "About", "href": "#about" },
+      {"title": "Testimonial", "href":"#testimonial"},
+      { "title": "Contact", "href": "#contact" }
+    ]
+   },
+   "footer": {
+    "links": [
+      {"title":"Home", "href": "#home"},
+      { "title": "Services", "href": "#services" },
+      { "title": "Work", "href": "#work" },
+      { "title": "About", "href": "#about" },
+       {"title": "Testimonial", "href": "#testimonial"},
+      { "title": "Contact", "href": "#contact" }
+    ]
+   },
+     "HeroSection": {
+        "title": "Landing page"
+    },
+    "Services": {
+        "title": "Landing page"
+    },
+    "AboutPage": {
+        "title": "About"
+    },
+    "ProfilePage": {
+        "title": "Profile"
+    },
+    "Index": {
+        "title": "Home",
+        "loggedIn": "Logged in as {username}",
+        "loggedOut": "You are logged out.",
+        "login": "Login",
+        "logout": "Logout",
+        "secret": "Secret page for logged in users"
+    },
+    "LocaleLayout": {
+        "title": "next-intl with Auth.js example"
+    },
+    "Login": {
+        "title": "Login",
+        "username": "Username",
+        "password": "Password",
+        "submit": "Login",
+        "error": "{error, select, CredentialsSignin {Invalid username or password} other {Unknown error}}"
+    },
+    "LocaleSwitcher": {
+        "switchLocale": "Switch to {locale, select, de {German} fr {French} ja {Japanese} en {English} other {Unknown}}"
+    },
+    "Secret": {
+        "title": "Secret page",
+        "description": "This page is only visible for logged in users."
+    },
+      "contact": "Go to the contact page"
+  },
+  "contactForm": {
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Submit"
+  },
+  "validation": {
+    "invalid": "Email invalid",
+    "required": "Name required",
+    "min": "Message required to be at least 10 characters"
+  },
+}
+
+
+
+
+
