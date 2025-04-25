@@ -1,0 +1,73 @@
+{
+  "navigation": {
+    "links": [
+      { "title": "Services,", "href": "#services" },
+      { "title": "Travaux,", "href": "#work" },
+      { "title": "À propos,", "href": "#about" },
+      { "title": "Témoignages,", "href": "#testimonial"},
+      { "title": "Contact,", "href": "#contact" }
+    ]
+  },
+  "SideNav": {
+    "links": [
+      {"title": "Accueil", "href": "#home"},
+      { "title": "Services", "href": "#services" },
+      { "title": "Profession", "href": "#work" },
+      { "title": "À propos", "href": "#about" },
+      {"title": "Témoignage", "href": "#testimonial"},
+      { "title": "Contact", "href": "#contact" }
+    ]
+  },
+  "HeroSection": {
+    "title": "Page d'accueil"
+  },
+  "Services": {
+    "title": "Page d'accueil"
+  },
+  "AboutPage": {
+    "title": "À propos"
+  },
+  "ProfilePage": {
+    "title": "Profil"
+  },
+  "Index": {
+    "title": "Accueil",
+    "loggedIn": "Connecté(e) en tant que {username}",
+    "loggedOut": "Vous êtes déconnecté(e).",
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "secret": "Page secrète pour les utilisateurs connectés"
+  },
+  "LocaleLayout": {
+    "title": "Exemple next-intl avec Auth.js"
+  },
+  "Login": {
+    "title": "Connexion",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "submit": "Connexion",
+    "error": "{error, select, CredentialsSignin {Nom d'utilisateur ou mot de passe invalide} other {Erreur inconnue}}"
+  },
+  "LocaleSwitcher": {
+    "switchLocale": "Basculer vers {locale, select, de {Allemand} en {Anglais} other {Inconnu}}"
+  },
+  "Secret": {
+    "title": "Page secrète",
+    "description": "Cette page est visible uniquement par les utilisateurs connectés."
+  },
+    "contact": "Aller à la page de contact"
+  },
+  "contactForm": {
+    "name": "Nom",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Envoyer"
+  },
+  "validation": {
+    "invalid": "Email invalide",
+    "required": "Nom requis",
+    "min": "Message requis pour être au moins 10 caractères"
+  }
+}
+
+

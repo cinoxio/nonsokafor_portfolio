@@ -1,7 +1,13 @@
-import type { NextConfig } from "next";
+import type { NextConfig } from 'next';
+import createNextIntlPlugin from 'next-intl/plugin';
 
-const nextConfig: NextConfig = {
-  /* config options here */
+const withNextIntl = createNextIntlPlugin();
+
+const config: NextConfig = {
+    experimental: {
+        viewTransition: true,
+    },
 };
 
-export default nextConfig;
+export default withNextIntl(config);
+
